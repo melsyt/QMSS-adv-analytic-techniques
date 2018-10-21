@@ -1,0 +1,6 @@
+.DS_Store
+.ipynb_checkpoints/*
+.Data/*
+.__pycache__/*
+*.txt
+*.Rmd
