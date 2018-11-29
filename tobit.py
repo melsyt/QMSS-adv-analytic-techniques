@@ -1,3 +1,13 @@
+"""
+***************************************************************************************
+*    Title: tobit.py
+*    Author: James Jensen
+*    Date: 3/14/2016
+*    Availability: https://github.com/jamesdj/tobit/blob/master/tobit.py
+*
+***************************************************************************************/
+"""
+
 import math
 import warnings
 
